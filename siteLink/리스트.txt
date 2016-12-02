@@ -1,0 +1,18 @@
+<수집, 가공>
+1)지역 , 상권발달정도, 승하차정보
+(2)예측한 환승역에 대한 정보)   - 답X
+
+<분석>
+1)상관관계
+  - 승하차인원 정보와 상권발달정보 사이의 관계가 있는지  임계치
+2) 분석
+  - 없는 지역에 대한 탐색, 분석
+
+https://www.data.go.kr/subMain.jsp#/L2NvbW0vY29tbW9uU2VhcmNoL29wZW5hcGkkQF4wMDIkQF5wYmxvbnNpcFJlc3JjZVBrPXVkZGk6MzIwNTY4YjUtY2QwZi00MjgwLThiOTctYmY1MTJmMTVmZTQ5JEBeSXJvc1NlYXJjaF9kZXRhaWxGbGFnPU9QRU5BUEkkQF5wdWJsaWNEYXRhRGV0YWlsUGs9dWRkaTozMjA1NjhiNS1jZDBmLTQyODAtOGI5Ny1iZjUxMmYxNWZlNDkkQF5za2lwUm93cz0wJEBebWF4Um93cz0xMA==    버스정류장 정보조회
+
+http://www.gsbdc.or.kr/elng.do?op=room&code=010302    상권분석및 입지선정 기준
+
+
+http://openapi.seoul.go.kr:8088/4d44545370737579353455684b4951/xml/CardBusStatisticsServiceNew/1/1000/20151101/   승하차 인원 정보 샘플
+
+http://data.seoul.go.kr/openinf/sheetview.jsp?infId=OA-13275   골목상권 프로파일링 지수지표
